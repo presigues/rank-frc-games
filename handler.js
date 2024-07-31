@@ -5,7 +5,16 @@ function getRandomInt(min, max) {
   }
 
 
-
+const game1="https://www.youtube.com/embed/9keeDyFxzY4?list=PLu4m0YMKEfPqmA4Di8Y9XkPannXdOZn8u"; // cres
+const game2="https://www.youtube.com/embed/0zpflsYc4PA"; // charge
+const game3="https://www.youtube.com/embed/VqOKzoHJDjA";  // strong
+const game4="https://www.youtube.com/embed/EMiNmJW7enI?list=PLu4m0YMKEfPqmA4Di8Y9XkPannXdOZn8u"; // steamworks
+const game5="https://www.youtube.com/embed/HZbdwYiCY74?list=PLu4m0YMKEfPqmA4Di8Y9XkPannXdOZn8u"; // power up
+const game6="https://www.youtube.com/embed/Mew6G_og-PI?list=PLu4m0YMKEfPqmA4Di8Y9XkPannXdOZn8u"; // deep
+const game7="";
+const game8="";
+const game9="";
+const game10="";
 
 
 function thehardpart(){
