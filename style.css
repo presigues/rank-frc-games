@@ -13,6 +13,7 @@
     transition-delay: 0s;
 
     transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .zero1:hover{
@@ -37,6 +38,7 @@
     transition-delay: 0s;
 
     transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .zerohalf1:hover{
     background-color: rgb(38, 17, 100);
@@ -59,6 +61,7 @@
      transition-delay: 0s;
  
      transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  
  .one1:hover{
@@ -82,6 +85,7 @@
     transition-delay: 0s;
 
     transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .onehalf1:hover{
     background-color: rgb(38, 17, 100);
@@ -104,6 +108,7 @@
      transition-delay: 0s;
  
      transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  
  .two1:hover{
@@ -127,6 +132,7 @@
     transition-delay: 0s;
 
     transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .twohalf1:hover{
     background-color: rgb(38, 17, 100);
@@ -149,6 +155,7 @@
      transition-delay: 0s;
  
      transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  
  .three1:hover{
@@ -173,6 +180,7 @@
     transition-delay: 0s;
 
     transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .threehalf1:hover{
     background-color: rgb(38, 17, 100);
@@ -195,6 +203,7 @@
      transition-delay: 0s;
  
      transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  
  .four1:hover{
@@ -202,4 +211,295 @@
     border: 2px solid rgb(38, 17, 100);
      transform: translateY(-10px)
  }
+
+ .fourhalf1{
+    width: 50px;
+    height: 50px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 12px;
+
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ .fourhalf1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+    transform: translateY(-10px)
+}
  
+.five1{
+    width: 80px;
+    height: 80px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 20px;
+ 
+    transition-duration: 0.3s;
+     transition-property: transform;
+     transition-timing-function: ease;
+     transition-delay: 0s;
+ 
+     transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ 
+ .five1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+     transform: translateY(-10px)
+ }
+
+ .fivehalf1{
+    width: 50px;
+    height: 50px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 12px;
+
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ .fivehalf1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+    transform: translateY(-10px)
+}
+
+.six1{
+    width: 80px;
+    height: 80px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 20px;
+ 
+    transition-duration: 0.3s;
+     transition-property: transform;
+     transition-timing-function: ease;
+     transition-delay: 0s;
+ 
+     transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ 
+ .six1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+     transform: translateY(-10px)
+ }
+ .sixhalf1{
+    width: 50px;
+    height: 50px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 12px;
+
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ .sixhalf1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+    transform: translateY(-10px)
+}
+
+.seven1{
+    width: 80px;
+    height: 80px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 20px;
+ 
+    transition-duration: 0.3s;
+     transition-property: transform;
+     transition-timing-function: ease;
+     transition-delay: 0s;
+ 
+     transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ 
+ .seven1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+     transform: translateY(-10px)
+ }
+
+ .sevenhalf1{
+    width: 50px;
+    height: 50px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 12px;
+
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ .sevenhalf1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+    transform: translateY(-10px)
+}
+
+.eight1{
+    width: 80px;
+    height: 80px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 20px;
+ 
+    transition-duration: 0.3s;
+     transition-property: transform;
+     transition-timing-function: ease;
+     transition-delay: 0s;
+ 
+     transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ 
+ .eight1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+     transform: translateY(-10px)
+ }
+
+ .eighthalf1{
+    width: 50px;
+    height: 50px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 12px;
+
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ .eighthalf1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+    transform: translateY(-10px)
+}
+
+.nine1{
+    width: 80px;
+    height: 80px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 20px;
+ 
+    transition-duration: 0.3s;
+     transition-property: transform;
+     transition-timing-function: ease;
+     transition-delay: 0s;
+ 
+     transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ 
+ .nine1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+     transform: translateY(-10px)
+ }
+
+ .ninehalf1{
+    width: 50px;
+    height: 50px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 12px;
+
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ .ninehalf1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+    transform: translateY(-10px)
+}
+
+.ten1{
+    width: 80px;
+    height: 80px; 
+    background-color: rgb(53, 24, 140);
+    border-radius: 15px;
+    border: 2px solid rgb(53, 24, 140);
+    color: white;
+    font-size: 20px;
+ 
+    transition-duration: 0.3s;
+     transition-property: transform;
+     transition-timing-function: ease;
+     transition-delay: 0s;
+ 
+     transition: transform 0.3s;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     z-index: 1;
+ }
+ 
+ .ten1:hover{
+    background-color: rgb(38, 17, 100);
+    border: 2px solid rgb(38, 17, 100);
+     transform: translateY(-10px)
+ }
+
+ .one{
+    position: fixed;
+    left: 200px;
+    bottom: 200px;
+    background-color: rgb(74, 95, 234);
+    border-radius: 15px;
+    height: 90px;
+    z-index: -1;
+ }
