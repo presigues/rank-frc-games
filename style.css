@@ -1,11 +1,31 @@
+@font-face { font-family: pixel; src: url("Azonix.ttf"); }
+
+body{
+    display: flex;
+    background-color: white;
+    background-image: linear-gradient(45deg, #ff7195, #ff77b7, #fa68ff, #c368ff, #9c71ff, #8e8cff);
+    background-size: 400%;
+    animation: animate 6s infinite ease-in-out alternate;
+}
+
+@keyframes animate {
+    0% {
+        background-position: left;
+    }
+    100% {
+        background-position: right;
+    }
+}
+
 .zero1{
    width: 80px;
    height: 80px; 
-   background-color: rgb(53, 24, 140);
+   background-color: transparent;
    border-radius: 15px;
-   border: 2px solid rgb(53, 24, 140);
+   border: 2px solid rgb(255, 255, 255);
    color: white;
    font-size: 20px;
+   font-family: pixel;
 
    transition-duration: 0.3s;
     transition-property: transform;
@@ -17,8 +37,9 @@
 }
 
 .zero1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
     
 }
@@ -26,11 +47,13 @@
 .zerohalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -41,19 +64,22 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .zerohalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
 
 .one1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -65,19 +91,22 @@
  }
  
  .one1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
 
  .onehalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -88,19 +117,22 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .onehalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
 
 .two1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -112,19 +144,22 @@
  }
  
  .two1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
 
  .twohalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -135,19 +170,22 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .twohalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
 
 .three1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
-    border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
-    color: white;
+    background-color: transparent;
+   border-radius: 15px;
+   border: 2px solid rgb(255, 255, 255);
+   color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -159,9 +197,10 @@
  }
  
  .three1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
 
  
@@ -173,6 +212,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -183,8 +224,9 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .threehalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
 
@@ -196,6 +238,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -207,9 +251,10 @@
  }
  
  .four1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
 
  .fourhalf1{
@@ -220,6 +265,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -230,8 +277,9 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .fourhalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
  
@@ -243,6 +291,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -254,9 +304,10 @@
  }
  
  .five1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
 
  .fivehalf1{
@@ -267,6 +318,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -277,8 +330,9 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .fivehalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
 
@@ -290,6 +344,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -301,9 +357,10 @@
  }
  
  .six1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
  .sixhalf1{
     width: 50px;
@@ -313,6 +370,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -323,8 +382,9 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .sixhalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
 
@@ -336,6 +396,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -347,9 +409,10 @@
  }
  
  .seven1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
 
  .sevenhalf1{
@@ -360,6 +423,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -370,8 +435,9 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .sevenhalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
 
@@ -383,6 +449,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -394,9 +462,10 @@
  }
  
  .eight1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
 
  .eighthalf1{
@@ -407,6 +476,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -417,8 +488,9 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .eighthalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
 
@@ -430,6 +502,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -441,9 +515,10 @@
  }
  
  .nine1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
 
  .ninehalf1{
@@ -454,6 +529,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 12px;
+    font-family: pixel;
+
 
     transition-duration: 0.3s;
     transition-property: transform;
@@ -464,8 +541,9 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
  .ninehalf1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
     transform: translateY(-10px)
 }
 
@@ -477,6 +555,8 @@
     border: 2px solid rgb(53, 24, 140);
     color: white;
     font-size: 20px;
+    font-family: pixel;
+
  
     transition-duration: 0.3s;
      transition-property: transform;
@@ -485,21 +565,19 @@
  
      transition: transform 0.3s;
      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-     z-index: 1;
+     z-index: 0;
  }
  
  .ten1:hover{
-    background-color: rgb(38, 17, 100);
-    border: 2px solid rgb(38, 17, 100);
-     transform: translateY(-10px)
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: #8e8cff;
+    transform: translateY(-10px)
  }
 
  .one{
     position: fixed;
     left: 200px;
     bottom: 200px;
-    background-color: rgb(74, 95, 234);
-    border-radius: 15px;
-    height: 90px;
-    z-index: -1;
+   
  }
