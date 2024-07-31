@@ -1,0 +1,37 @@
+@font-face { font-family: pixel; src: url("Azonix.ttf"); }
+
+body{
+    display: flex;
+    background-color: white;
+    background-image: linear-gradient(45deg, #ff7195, #ff77b7, #fa68ff, #c368ff, #9c71ff, #8e8cff);
+    background-size: 400%;
+    animation: animate 6s infinite ease-in-out alternate;
+}
+
+@keyframes animate {
+    0% {
+        background-position: left;
+    }
+    100% {
+        background-position: right;
+    }
+}
+
+.title1{
+    font-size: 60px;
+    font-family: pixel;
+    color: white;
+    position: fixed;
+    left: 760px;
+    top: 100px;
+}
+
+
+.cred{
+    font-size: 30px;
+    font-family: pixel;
+    color: white;
+    position: fixed;
+    left: 740px;
+    top: 200px;
+}
