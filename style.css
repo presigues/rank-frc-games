@@ -207,9 +207,9 @@ body{
  .threehalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
     font-family: pixel;
@@ -233,9 +233,9 @@ body{
 .four1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 20px;
     font-family: pixel;
@@ -260,9 +260,9 @@ body{
  .fourhalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
     font-family: pixel;
@@ -286,9 +286,9 @@ body{
 .five1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 20px;
     font-family: pixel;
@@ -313,9 +313,9 @@ body{
  .fivehalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
     font-family: pixel;
@@ -339,9 +339,9 @@ body{
 .six1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 20px;
     font-family: pixel;
@@ -365,9 +365,9 @@ body{
  .sixhalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
     font-family: pixel;
@@ -391,9 +391,9 @@ body{
 .seven1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 20px;
     font-family: pixel;
@@ -418,9 +418,9 @@ body{
  .sevenhalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
     font-family: pixel;
@@ -444,10 +444,10 @@ body{
 .eight1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
-    border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
-    color: white;
+    background-color: transparent;
+   border-radius: 15px;
+   border: 2px solid rgb(255, 255, 255);
+   color: white;
     font-size: 20px;
     font-family: pixel;
 
@@ -471,9 +471,9 @@ body{
  .eighthalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
     font-family: pixel;
@@ -497,10 +497,10 @@ body{
 .nine1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
-    border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
-    color: white;
+    background-color: transparent;
+   border-radius: 15px;
+   border: 2px solid rgb(255, 255, 255);
+   color: white;
     font-size: 20px;
     font-family: pixel;
 
@@ -524,9 +524,9 @@ body{
  .ninehalf1{
     width: 50px;
     height: 50px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 12px;
     font-family: pixel;
@@ -550,9 +550,9 @@ body{
 .ten1{
     width: 80px;
     height: 80px; 
-    background-color: rgb(53, 24, 140);
+    background-color: transparent;
     border-radius: 15px;
-    border: 2px solid rgb(53, 24, 140);
+    border: 2px solid rgb(255, 255, 255);
     color: white;
     font-size: 20px;
     font-family: pixel;
@@ -580,4 +580,10 @@ body{
     left: 200px;
     bottom: 200px;
    
+ }
+
+ .game1{
+    position: fixed;
+    top: 100px;
+    left: 500px;
  }
