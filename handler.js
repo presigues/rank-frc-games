@@ -48,7 +48,7 @@ while(round1==round10||round2==round10||round3==round10||round4==round10||round5
     round10 = getRandomInt(1, 10);
 }
 
-console.log(round1 + " " + round2 + " " + round3 + " " + round4 + " " + round5 + " " + round6 + " " + round7 + " " + round8 + " " + round9 + " " + round10);
+
 
 }
 
