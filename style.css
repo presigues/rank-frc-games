@@ -585,5 +585,27 @@ body{
  .game1{
     position: fixed;
     top: 100px;
-    left: 500px;
+    left: 520px;
+    border-radius: 15px;
+    border: 2px solid white;
  }
+
+ .bad{
+font-family: pixel;
+font-size: 25px;
+position: fixed;
+left: 160px;
+bottom: 130px;
+color: white;
+
+ }
+
+ .good{
+    font-family: pixel;
+    font-size: 25px;
+    position: fixed;
+    right: 160px;
+    bottom: 130px;
+    color: white;
+    
+     }
