@@ -36,7 +36,7 @@ if(round == 1){
 
 }
 
-function halfchosen(){
+function halfchosen(round){
 if (round==1){
 rating1 == .5;
 }
@@ -68,7 +68,7 @@ if (round==2){
                                     rating10 == .5;
                                     }
 }
-function onechosen(){
+function onechosen(round){
     if (round==1){
     rating1 == 1;
     }
@@ -100,7 +100,7 @@ function onechosen(){
                                         rating10 == 1;
                                         }
     }
-    function onehalfchosen(){
+    function onehalfchosen(round){
         if (round==1){
         rating1 == 1.5;
         }
@@ -132,7 +132,7 @@ function onechosen(){
                                             rating10 == 1.5;
                                             }
         }
-        function twochosen(){
+        function twochosen(round){
             if (round==1){
             rating1 == 2;
             }
@@ -164,7 +164,7 @@ function onechosen(){
                                                 rating10 == 2;
                                                 }
             }
-            function twohalfchosen(){
+            function twohalfchosen(round){
                 if (round==1){
                 rating1 == 2.5;
                 }
@@ -197,7 +197,7 @@ function onechosen(){
                                                     }
                 }
 
-                function threechosen(){
+                function threechosen(round){
                     if (round==1){
                     rating1 == 3;
                     }
@@ -229,7 +229,7 @@ function onechosen(){
                                                         rating10 == 3;
                                                         }
                     }
-                    function threehalfchosen(){
+                    function threehalfchosen(round){
                         if (round==1){
                         rating1 == 3.5;
                         }
@@ -261,7 +261,7 @@ function onechosen(){
                                                             rating10 == 3.5;
                                                             }
                         }
-                        function fourchosen(){
+                        function fourchosen(round){
                             if (round==1){
                             rating1 == 4;
                             }
@@ -294,7 +294,7 @@ function onechosen(){
                                                                 }
                             }
 
-                            function fourhalfchosen(){
+                            function fourhalfchosen(round){
                                 if (round==1){
                                 rating1 == 4.5;
                                 }
@@ -326,6 +326,360 @@ function onechosen(){
                                                                     rating10 == 4.5;
                                                                     }
                                 }
+                                function fivechosen(round){
+                                    if (round==1){
+                                    rating1 == 5;
+                                    }
+                                    if (round==2){
+                                        rating2 == 5;
+                                        }
+                                        if (round==3){
+                                            rating3 == 5;
+                                            }
+                                            if (round==4){
+                                                rating4 == 5;
+                                                }
+                                                if (round==5){
+                                                    rating5 == 5;
+                                                    }
+                                                    if (round==6){
+                                                        rating6 == 5;
+                                                        }
+                                                        if (round==7){
+                                                            rating7 == 5;
+                                                            }
+                                                            if (round==8){
+                                                                rating8 == 5;
+                                                                }
+                                                                if (round==9){
+                                                                    rating9 == 5;
+                                                                    }
+                                                                    if (round==10){
+                                                                        rating10 == 5;
+                                                                        }
+                                    }
+                                    function fivehalfchosen(round){
+                                        if (round==1){
+                                        rating1 == 5.5;
+                                        }
+                                        if (round==2){
+                                            rating2 == 5.5;
+                                            }
+                                            if (round==3){
+                                                rating3 == 5.5;
+                                                }
+                                                if (round==4){
+                                                    rating4 == 5.5;
+                                                    }
+                                                    if (round==5){
+                                                        rating5 == 5.5;
+                                                        }
+                                                        if (round==6){
+                                                            rating6 == 5.5;
+                                                            }
+                                                            if (round==7){
+                                                                rating7 == 5.5;
+                                                                }
+                                                                if (round==8){
+                                                                    rating8 == 5.5;
+                                                                    }
+                                                                    if (round==9){
+                                                                        rating9 == 5.5;
+                                                                        }
+                                                                        if (round==10){
+                                                                            rating10 == 5.5;
+                                                                            }
+                                        }
+                                        function sixchosen(){
+                                            if (round==1){
+                                            rating1 == 6;
+                                            }
+                                            if (round==2){
+                                                rating2 == 6;
+                                                }
+                                                if (round==3){
+                                                    rating3 == 6;
+                                                    }
+                                                    if (round==4){
+                                                        rating4 == 6;
+                                                        }
+                                                        if (round==5){
+                                                            rating5 == 6;
+                                                            }
+                                                            if (round==6){
+                                                                rating6 == 6;
+                                                                }
+                                                                if (round==7){
+                                                                    rating7 == 6;
+                                                                    }
+                                                                    if (round==8){
+                                                                        rating8 == 6;
+                                                                        }
+                                                                        if (round==9){
+                                                                            rating9 == 6;
+                                                                            }
+                                                                            if (round==10){
+                                                                                rating10 == 6;
+                                                                                }
+                                            }
+
+                                            function sixhalfchosen(){
+                                                if (round==1){
+                                                rating1 == 6.5;
+                                                }
+                                                if (round==2){
+                                                    rating2 == 6.5;
+                                                    }
+                                                    if (round==3){
+                                                        rating3 == 6.5;
+                                                        }
+                                                        if (round==4){
+                                                            rating4 == 6.5;
+                                                            }
+                                                            if (round==5){
+                                                                rating5 == 6.5;
+                                                                }
+                                                                if (round==6){
+                                                                    rating6 == 6.5;
+                                                                    }
+                                                                    if (round==7){
+                                                                        rating7 == 6.5;
+                                                                        }
+                                                                        if (round==8){
+                                                                            rating8 == 6.5;
+                                                                            }
+                                                                            if (round==9){
+                                                                                rating9 == 6.5;
+                                                                                }
+                                                                                if (round==10){
+                                                                                    rating10 == 6.5;
+                                                                                    }
+                                                }
+                                                function sevenchosen(){
+                                                    if (round==1){
+                                                    rating1 == 7;
+                                                    }
+                                                    if (round==2){
+                                                        rating2 == 7;
+                                                        }
+                                                        if (round==3){
+                                                            rating3 == 7;
+                                                            }
+                                                            if (round==4){
+                                                                rating4 == 7;
+                                                                }
+                                                                if (round==5){
+                                                                    rating5 == 7;
+                                                                    }
+                                                                    if (round==6){
+                                                                        rating6 == 7;
+                                                                        }
+                                                                        if (round==7){
+                                                                            rating7 == 7;
+                                                                            }
+                                                                            if (round==8){
+                                                                                rating8 == 7;
+                                                                                }
+                                                                                if (round==9){
+                                                                                    rating9 == 7;
+                                                                                    }
+                                                                                    if (round==10){
+                                                                                        rating10 == 7;
+                                                                                        }
+                                                    }
+                                                    function sevenhalfchosen(){
+                                                        if (round==1){
+                                                        rating1 == 7.5;
+                                                        }
+                                                        if (round==2){
+                                                            rating2 == 7.5;
+                                                            }
+                                                            if (round==3){
+                                                                rating3 == 7.5;
+                                                                }
+                                                                if (round==4){
+                                                                    rating4 == 7.5;
+                                                                    }
+                                                                    if (round==5){
+                                                                        rating5 == 7.5;
+                                                                        }
+                                                                        if (round==6){
+                                                                            rating6 == 7.5;
+                                                                            }
+                                                                            if (round==7){
+                                                                                rating7 == 7.5;
+                                                                                }
+                                                                                if (round==8){
+                                                                                    rating8 == 7.5;
+                                                                                    }
+                                                                                    if (round==9){
+                                                                                        rating9 == 7.5;
+                                                                                        }
+                                                                                        if (round==10){
+                                                                                            rating10 == 7.5;
+                                                                                            }
+                                                        }
+                                                        function eightchosen(){
+                                                            if (round==1){
+                                                            rating1 == 8;
+                                                            }
+                                                            if (round==2){
+                                                                rating2 == 8;
+                                                                }
+                                                                if (round==3){
+                                                                    rating3 == 8;
+                                                                    }
+                                                                    if (round==4){
+                                                                        rating4 == 8;
+                                                                        }
+                                                                        if (round==5){
+                                                                            rating5 == 8;
+                                                                            }
+                                                                            if (round==6){
+                                                                                rating6 == 8;
+                                                                                }
+                                                                                if (round==7){
+                                                                                    rating7 == 8;
+                                                                                    }
+                                                                                    if (round==8){
+                                                                                        rating8 == 8;
+                                                                                        }
+                                                                                        if (round==9){
+                                                                                            rating9 == 8;
+                                                                                            }
+                                                                                            if (round==10){
+                                                                                                rating10 == 8;
+                                                                                                }
+                                                            }
+                                                            function eighthalfchosen(){
+                                                                if (round==1){
+                                                                rating1 == 8.5;
+                                                                }
+                                                                if (round==2){
+                                                                    rating2 == 8.5;
+                                                                    }
+                                                                    if (round==3){
+                                                                        rating3 == 8.5;
+                                                                        }
+                                                                        if (round==4){
+                                                                            rating4 == 8.5;
+                                                                            }
+                                                                            if (round==5){
+                                                                                rating5 == 8.5;
+                                                                                }
+                                                                                if (round==6){
+                                                                                    rating6 == 8.5;
+                                                                                    }
+                                                                                    if (round==7){
+                                                                                        rating7 == 8.5;
+                                                                                        }
+                                                                                        if (round==8){
+                                                                                            rating8 == 8.5;
+                                                                                            }
+                                                                                            if (round==9){
+                                                                                                rating9 == 8.5;
+                                                                                                }
+                                                                                                if (round==10){
+                                                                                                    rating10 == 8.5;
+                                                                                                    }
+                                                                }
+                                                                function ninechosen(){
+                                                                    if (round==1){
+                                                                    rating1 == 9;
+                                                                    }
+                                                                    if (round==2){
+                                                                        rating2 == 9;
+                                                                        }
+                                                                        if (round==3){
+                                                                            rating3 == 9;
+                                                                            }
+                                                                            if (round==4){
+                                                                                rating4 == 9;
+                                                                                }
+                                                                                if (round==5){
+                                                                                    rating5 == 9;
+                                                                                    }
+                                                                                    if (round==6){
+                                                                                        rating6 == 9;
+                                                                                        }
+                                                                                        if (round==7){
+                                                                                            rating7 == 9;
+                                                                                            }
+                                                                                            if (round==8){
+                                                                                                rating8 == 9;
+                                                                                                }
+                                                                                                if (round==9){
+                                                                                                    rating9 == 9;
+                                                                                                    }
+                                                                                                    if (round==10){
+                                                                                                        rating10 == 9;
+                                                                                                        }
+                                                                    }
+                                                                    function ninehalfchosen(){
+                                                                        if (round==1){
+                                                                        rating1 == 9.5;
+                                                                        }
+                                                                        if (round==2){
+                                                                            rating2 == 9.5;
+                                                                            }
+                                                                            if (round==3){
+                                                                                rating3 == 9.5;
+                                                                                }
+                                                                                if (round==4){
+                                                                                    rating4 == 9.5;
+                                                                                    }
+                                                                                    if (round==5){
+                                                                                        rating5 == 9.5;
+                                                                                        }
+                                                                                        if (round==6){
+                                                                                            rating6 == 9.5;
+                                                                                            }
+                                                                                            if (round==7){
+                                                                                                rating7 == 9.5;
+                                                                                                }
+                                                                                                if (round==8){
+                                                                                                    rating8 == 9.5;
+                                                                                                    }
+                                                                                                    if (round==9){
+                                                                                                        rating9 == 9.5;
+                                                                                                        }
+                                                                                                        if (round==10){
+                                                                                                            rating10 == 9.5;
+                                                                                                            }
+                                                                        }
+                                                                        function tenchosen(){
+                                                                            if (round==1){
+                                                                            rating1 == 10;
+                                                                            }
+                                                                            if (round==2){
+                                                                                rating2 == 10;
+                                                                                }
+                                                                                if (round==3){
+                                                                                    rating3 == 10;
+                                                                                    }
+                                                                                    if (round==4){
+                                                                                        rating4 == 10;
+                                                                                        }
+                                                                                        if (round==5){
+                                                                                            rating5 == 10;
+                                                                                            }
+                                                                                            if (round==6){
+                                                                                                rating6 == 10;
+                                                                                                }
+                                                                                                if (round==7){
+                                                                                                    rating7 == 10;
+                                                                                                    }
+                                                                                                    if (round==8){
+                                                                                                        rating8 == 10;
+                                                                                                        }
+                                                                                                        if (round==9){
+                                                                                                            rating9 == 10;
+                                                                                                            }
+                                                                                                            if (round==10){
+                                                                                                                rating10 == 10;
+                                                                                                                }
+                                                                            }
+
 
 
 
