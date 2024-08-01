@@ -35,7 +35,38 @@ if(round == 1){
 }
 
 }
-
+function zerochosen(round){
+    if (round==1){
+    rating1 == 0;
+    }
+    if (round==2){
+        rating2 == 0;
+        }
+        if (round==3){
+            rating3 == 0;
+            }
+            if (round==4){
+                rating4 == 0;
+                }
+                if (round==5){
+                    rating5 == 0;
+                    }
+                    if (round==6){
+                        rating6 == 0;
+                        }
+                        if (round==7){
+                            rating7 == 0;
+                            }
+                            if (round==8){
+                                rating8 == 0;
+                                }
+                                if (round==9){
+                                    rating9 == 0;
+                                    }
+                                    if (round==10){
+                                        rating10 == 0;
+                                        }
+    }
 function halfchosen(round){
 if (round==1){
 rating1 == .5;
