@@ -68,57 +68,277 @@ if (round==2){
                                     rating10 == .5;
                                     }
 }
+function onechosen(){
+    if (round==1){
+    rating1 == 1;
+    }
+    if (round==2){
+        rating2 == 1;
+        }
+        if (round==3){
+            rating3 == 1;
+            }
+            if (round==4){
+                rating4 == 1;
+                }
+                if (round==5){
+                    rating5 == 1;
+                    }
+                    if (round==6){
+                        rating6 == 1;
+                        }
+                        if (round==7){
+                            rating7 == 1;
+                            }
+                            if (round==8){
+                                rating8 == 1;
+                                }
+                                if (round==9){
+                                    rating9 == 1;
+                                    }
+                                    if (round==10){
+                                        rating10 == 1;
+                                        }
+    }
+    function onehalfchosen(){
+        if (round==1){
+        rating1 == 1.5;
+        }
+        if (round==2){
+            rating2 == 1.5;
+            }
+            if (round==3){
+                rating3 == 1.5;
+                }
+                if (round==4){
+                    rating4 == 1.5;
+                    }
+                    if (round==5){
+                        rating5 == 1.5;
+                        }
+                        if (round==6){
+                            rating6 == 1.5;
+                            }
+                            if (round==7){
+                                rating7 == 1.5;
+                                }
+                                if (round==8){
+                                    rating8 == 1.5;
+                                    }
+                                    if (round==9){
+                                        rating9 == 1.5;
+                                        }
+                                        if (round==10){
+                                            rating10 == 1.5;
+                                            }
+        }
+        function twochosen(){
+            if (round==1){
+            rating1 == 2;
+            }
+            if (round==2){
+                rating2 == 2;
+                }
+                if (round==3){
+                    rating3 == 2;
+                    }
+                    if (round==4){
+                        rating4 == 2;
+                        }
+                        if (round==5){
+                            rating5 == 2;
+                            }
+                            if (round==6){
+                                rating6 == 2;
+                                }
+                                if (round==7){
+                                    rating7 == 2;
+                                    }
+                                    if (round==8){
+                                        rating8 == 2;
+                                        }
+                                        if (round==9){
+                                            rating9 == 2;
+                                            }
+                                            if (round==10){
+                                                rating10 == 2;
+                                                }
+            }
+            function twohalfchosen(){
+                if (round==1){
+                rating1 == 2.5;
+                }
+                if (round==2){
+                    rating2 == 2.5;
+                    }
+                    if (round==3){
+                        rating3 == 2.5;
+                        }
+                        if (round==4){
+                            rating4 == 2.5;
+                            }
+                            if (round==5){
+                                rating5 == 2.5;
+                                }
+                                if (round==6){
+                                    rating6 == 2.5;
+                                    }
+                                    if (round==7){
+                                        rating7 == 2.5;
+                                        }
+                                        if (round==8){
+                                            rating8 == 2.5;
+                                            }
+                                            if (round==9){
+                                                rating9 == 2.5;
+                                                }
+                                                if (round==10){
+                                                    rating10 == 2.5;
+                                                    }
+                }
+
+                function threechosen(){
+                    if (round==1){
+                    rating1 == 3;
+                    }
+                    if (round==2){
+                        rating2 == 3;
+                        }
+                        if (round==3){
+                            rating3 == 3;
+                            }
+                            if (round==4){
+                                rating4 == 3;
+                                }
+                                if (round==5){
+                                    rating5 == 3;
+                                    }
+                                    if (round==6){
+                                        rating6 == 3;
+                                        }
+                                        if (round==7){
+                                            rating7 == 3;
+                                            }
+                                            if (round==8){
+                                                rating8 == 3;
+                                                }
+                                                if (round==9){
+                                                    rating9 == 3;
+                                                    }
+                                                    if (round==10){
+                                                        rating10 == 3;
+                                                        }
+                    }
+                    function threehalfchosen(){
+                        if (round==1){
+                        rating1 == 3.5;
+                        }
+                        if (round==2){
+                            rating2 == 3.5;
+                            }
+                            if (round==3){
+                                rating3 == 3.5;
+                                }
+                                if (round==4){
+                                    rating4 == 3.5;
+                                    }
+                                    if (round==5){
+                                        rating5 == 3.5;
+                                        }
+                                        if (round==6){
+                                            rating6 == 3.5;
+                                            }
+                                            if (round==7){
+                                                rating7 == 3.5;
+                                                }
+                                                if (round==8){
+                                                    rating8 == 3.5;
+                                                    }
+                                                    if (round==9){
+                                                        rating9 == 3.5;
+                                                        }
+                                                        if (round==10){
+                                                            rating10 == 3.5;
+                                                            }
+                        }
+                        function fourchosen(){
+                            if (round==1){
+                            rating1 == 4;
+                            }
+                            if (round==2){
+                                rating2 == 4;
+                                }
+                                if (round==3){
+                                    rating3 == 4;
+                                    }
+                                    if (round==4){
+                                        rating4 == 4;
+                                        }
+                                        if (round==5){
+                                            rating5 == 4;
+                                            }
+                                            if (round==6){
+                                                rating6 == 4;
+                                                }
+                                                if (round==7){
+                                                    rating7 == 4;
+                                                    }
+                                                    if (round==8){
+                                                        rating8 == 4;
+                                                        }
+                                                        if (round==9){
+                                                            rating9 == 4;
+                                                            }
+                                                            if (round==10){
+                                                                rating10 == 4;
+                                                                }
+                            }
+
+                            function fourhalfchosen(){
+                                if (round==1){
+                                rating1 == 4.5;
+                                }
+                                if (round==2){
+                                    rating2 == 4.5;
+                                    }
+                                    if (round==3){
+                                        rating3 == 4.5;
+                                        }
+                                        if (round==4){
+                                            rating4 == 4.5;
+                                            }
+                                            if (round==5){
+                                                rating5 == 4.5;
+                                                }
+                                                if (round==6){
+                                                    rating6 == 4.5;
+                                                    }
+                                                    if (round==7){
+                                                        rating7 == 4.5;
+                                                        }
+                                                        if (round==8){
+                                                            rating8 == 4.5;
+                                                            }
+                                                            if (round==9){
+                                                                rating9 == 4.5;
+                                                                }
+                                                                if (round==10){
+                                                                    rating10 == 4.5;
+                                                                    }
+                                }
 
 
 
-function hard2{
 
 if(round == 2){
     
     document.getElementById("game1").setAttribute("src", game2);
             round = 3;
 }
-}
 
 
-if(round == 3){
-    document.getElementById("game1").setAttribute("src", game3);
-            round = 4;
-}
 
-if(round == 4){
-    document.getElementById("game1").setAttribute("src", game4);
-            round = 5;
-}
 
-if(round == 5){
-    document.getElementById("game1").setAttribute("src", game5);
-            round = 6;
-}
-
-if(round == 6){
-    document.getElementById("game1").setAttribute("src", game6);
-            round = 7;
-}
-
-if(round == 7){
-    document.getElementById("game1").setAttribute("src", game7);
-            round = 8;
-}
-
-if(round == 8){
-    document.getElementById("game1").setAttribute("src", game8);
-            round = 9;
-}
-
-if(round == 9){
-    document.getElementById("game1").setAttribute("src", game9);
-            round = 10;
-}
-if(round == 10){
-    document.getElementById("game1").setAttribute("src", game10);
-            
-}
 
 
 
