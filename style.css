@@ -582,7 +582,7 @@ body{
    
  }
 
- .game1{
+ #game1{
     position: fixed;
     top: 100px;
     left: 520px;
