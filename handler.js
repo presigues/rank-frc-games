@@ -28,6 +28,65 @@ if(round == 1){
 }
 
 
+function hard2{
+
+if(round == 2){
+    document.getElementById("game1").setAttribute("src", game2);
+            round = 3;
+}
+}
+
+
+if(round == 3){
+    document.getElementById("game1").setAttribute("src", game3);
+            round = 4;
+}
+
+if(round == 4){
+    document.getElementById("game1").setAttribute("src", game4);
+            round = 5;
+}
+
+if(round == 5){
+    document.getElementById("game1").setAttribute("src", game5);
+            round = 6;
+}
+
+if(round == 6){
+    document.getElementById("game1").setAttribute("src", game6);
+            round = 7;
+}
+
+if(round == 7){
+    document.getElementById("game1").setAttribute("src", game7);
+            round = 8;
+}
+
+if(round == 8){
+    document.getElementById("game1").setAttribute("src", game8);
+            round = 9;
+}
+
+if(round == 9){
+    document.getElementById("game1").setAttribute("src", game9);
+            round = 10;
+}
+if(round == 10){
+    document.getElementById("game1").setAttribute("src", game10);
+            
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

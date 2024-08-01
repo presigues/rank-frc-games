@@ -621,3 +621,31 @@ top: 80px;
 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 pointer-events: none;
 }
+
+#starts{
+   font-size: 30px;
+   font-family: pixel;
+   color: white;
+   background-color: transparent;
+   border: 2px solid white;
+   border-radius: 15px;
+   width: 300px;
+   height: 100px;
+   position: fixed;
+   bottom: 60px;
+   left: 780px;
+   transition-duration: 0.3s;
+   transition-property: transform;
+   transition-timing-function: ease;
+   transition-delay: 0s;
+
+   transition: transform 0.3s;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#starts:hover{
+   background-color: rgb(255, 255, 255);
+   border: 2px solid rgb(255, 255, 255);
+   color: #8e8cff;
+   transform: translateY(-10px)
+}
