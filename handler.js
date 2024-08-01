@@ -16,8 +16,17 @@ const game8="https://www.youtube.com/embed/itHNW2OFr4Y?list=PLu4m0YMKEfPqmA4Di8Y
 const game9="https://www.youtube.com/embed/ZnGfbGzEFrM?list=PLu4m0YMKEfPqmA4Di8Y9XkPannXdOZn8u"; // lunacy
 const game10="https://www.youtube.com/embed/uYNu9cQac1o?list=PLu4m0YMKEfPqmA4Di8Y9XkPannXdOZn8u"; // stack attack
 
-
-function hard(){
+rating1;
+rating2;
+rationg3;
+rating4;
+rating5;
+rating6;
+rating7;
+rating8;
+rating9;
+rating10;
+function choice1(){
 round = 1;
 
 if(round == 1){
@@ -27,10 +36,45 @@ if(round == 1){
 
 }
 
+function halfchosen(){
+if (round==1){
+rating1 == .5;
+}
+if (round==2){
+    rating2 == .5;
+    }
+    if (round==3){
+        rating3 == .5;
+        }
+        if (round==4){
+            rating4 == .5;
+            }
+            if (round==5){
+                rating5 == .5;
+                }
+                if (round==6){
+                    rating6 == .5;
+                    }
+                    if (round==7){
+                        rating7 == .5;
+                        }
+                        if (round==8){
+                            rating8 == .5;
+                            }
+                            if (round==9){
+                                rating9 == .5;
+                                }
+                                if (round==10){
+                                    rating10 == .5;
+                                    }
+}
+
+
 
 function hard2{
 
 if(round == 2){
+    
     document.getElementById("game1").setAttribute("src", game2);
             round = 3;
 }
