@@ -2,6 +2,8 @@
 
 check out hows its doing here : https://66be3d5e832d57080ef489f2--melodic-conkies-24e79d.netlify.app
 
+https://github.com/user-attachments/assets/7760ee15-765f-48ce-9035-3e8da496f0ea
+
 this project is a wip for a website that would let you be able to rank your favourite frc games. 
 
 currently the website has a menu screen where you can click start to enter the game part of the website, and where you can click credits to be linked to my github. 
