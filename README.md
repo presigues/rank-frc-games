@@ -9,3 +9,11 @@ currently the website has a menu screen where you can click start to enter the g
 im still working on the rating part of the game, however clicking start shows the layout for how it works, and how it picked a game for you to rate.
 
 even though the game isnt complete, i hope you enjoy checking out how it looks and what its soon to be!
+
+**self hosting instructions**
+
+1 download all files
+
+2 create a project file, name it whatever you want, and add all the files to it
+
+3 use live server and click go live while viewing "index.html"
